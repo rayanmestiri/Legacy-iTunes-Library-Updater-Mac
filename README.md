@@ -1,6 +1,8 @@
 iTunes-Library-Updater-Mac
 ==========================
 
+<p align="center"><img src="http://4.ii.gl/j1EKzqEho.png"/><p>
+
 Choose a folder and iTunes will automatically watch it and all its subfolders. 
 <br/>You don't have to drag n drop files into iTunes anymore.
 
