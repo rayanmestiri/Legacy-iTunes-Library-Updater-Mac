@@ -23,5 +23,5 @@ An AppleScript adds <a href="https://developer.apple.com/library/mac/documentati
 <br/>The AppleScript tells iTunes to remove each of these files from its library.
 
 <h2>Known issue</h2>
-The script doesn't update folder actions. So when you copy a folder into your music folder, it won't be watched.
-<br/>It should be fixed soon
+The script doesn't remove Folder Actions from the folder you remove from your main iTunes directory.
+The issue is related to the fact that I cannot retrieve the list of folders/files removed with folder actions. I don't have a solution yet.
